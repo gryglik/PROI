@@ -1,0 +1,3 @@
+[submodule "task-fract"]
+	path = task-fract
+	url = https://github.com/gryglik/proi-task-fract
