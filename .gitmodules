@@ -1,3 +1,12 @@
 [submodule "proi-task-fract"]
 	path = proi-task-fract
 	url = https://github.com/gryglik/proi-task-fract.git
+[submodule "proi-task-prescription"]
+	path = proi-task-prescription
+	url = https://github.com/gryglik/proi-task-prescription.git
+[submodule "proi-task-word-counter"]
+	path = proi-task-word-counter
+	url = https://github.com/gryglik/proi-task-word-counter.git
+[submodule "proi-task-double-linked-list"]
+	path = proi-task-double-linked-list
+	url = https://github.com/gryglik/proi-task-double-linked-list.git
